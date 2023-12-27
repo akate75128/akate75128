@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy!
+<p>I'm a GIST major trying to get into coding.</p>
+<ul>
+  <li>Currently working on Oracle's Java SE 11 course and certificate</li>
+  <li>Looking for suggestions on reputable Python and C++ certificate courses</li>
+  <li>Need ideas on how to practice applying skills</li>
+</ul>
+<p>Have a good day!</p>
 
 <!--
 **akate75128/akate75128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
